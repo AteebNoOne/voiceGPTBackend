@@ -6,3 +6,4 @@ assemblyai
 google-generativeai
 gTTS
 gunicorn
+python-dotenv
