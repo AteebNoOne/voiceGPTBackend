@@ -149,7 +149,7 @@ def get_audio(username, filename):
 @jwt_required()
 def get_user_audio():
     current_user = get_jwt_identity()
-    base_url = 'http://localhost:5000/audio'
+    base_url = 'https://voicegpt-vfcj.onrender.com/audio'
 
     directory_path = f'./audio/{current_user}'
 
