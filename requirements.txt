@@ -1,0 +1,8 @@
+Flask
+Flask-JWT-Extended
+pymongo
+Flask-CORS
+assemblyai
+google-generativeai
+gTTS
+gunicorn
